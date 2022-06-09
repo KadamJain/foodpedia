@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodpedia/static/css/main.e6c13ad2.css",
+    "main.js": "/foodpedia/static/js/main.7f63a04d.js",
+    "static/media/notfound.gif": "/foodpedia/static/media/notfound.5589d847214d47c6cf29.gif",
+    "static/media/loader.gif": "/foodpedia/static/media/loader.46d4390fbec9758d508a.gif",
+    "index.html": "/foodpedia/index.html",
+    "main.e6c13ad2.css.map": "/foodpedia/static/css/main.e6c13ad2.css.map",
+    "main.7f63a04d.js.map": "/foodpedia/static/js/main.7f63a04d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7f63a04d.js"
+  ]
+}
